@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/balabrucks/first-contract/contracts/MyContracts.sol": {
+      "lastModificationDate": 1729158625007,
+      "contentHash": "9aafcd34d77ab8a34e19f520beacf0a2",
+      "sourceName": "contracts/MyContracts.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.27"
+      ],
+      "artifacts": [
+        "FCDT"
+      ]
+    }
+  }
+}
